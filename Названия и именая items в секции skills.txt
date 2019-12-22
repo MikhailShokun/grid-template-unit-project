@@ -1,0 +1,9 @@
+HTML          img-html.png
+CSS           img-css.png
+Markup        img-markup.png
+Web-Design    img-webdesign.png
+Quality Assurance     img-qa.png
+Codding       img-codding.png
+Adaptability  img-adaptability.png
+PHP           img-php.png
+SEO           img-seo.png
